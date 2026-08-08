@@ -1,0 +1,6 @@
+auto-pick-last-run.txt
+hosts.club-backup
+*.orig-backup
+setup_log.txt
+wardogs_log.txt
+.claude/
